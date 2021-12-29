@@ -1,0 +1,9 @@
+name = "Vidda - Zeus error fix";
+author = "johnb43";
+tooltipOwned = "Vidda - Zeus error fix";
+hideName = 0;
+hidePicture = 0;
+actionName = "Github";
+action = "https://github.com/johnb432/Vidda-Zeus-error-fix";
+description = "A mod to fix the error that pops up when entering the Zeus interface when VIDDA | LEGACY VERSION is loaded. Made by johnb43";
+overview = "A mod to fix the error that pops up when entering the Zeus interface when VIDDA | LEGACY VERSION is loaded. Made by johnb43";
